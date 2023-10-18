@@ -1,1 +1,1 @@
-resource_group_name = "myNewResourceGroupName"
+resource_group_name = "myNewResourceGroupName2"
